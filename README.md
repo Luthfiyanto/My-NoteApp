@@ -7,11 +7,11 @@ This is my first React project to build a simple note application. This app impl
   ```bash
   git clone https://github.com/Luthfiyanto/My-NoteApp.git
   ```
-3. *Install node_modules* <br>
+2. *Install node_modules* <br>
   ```bash
   npm install
   ```
-4. *Run the project* <br>
+3. *Run the project* <br>
   ```bash
   npm run dev
   ```
