@@ -4,7 +4,7 @@ This is my first React project to build a simple note application. This app impl
 
 # How to run project
 1. *Clone this repository* <br>
-  ```git clone```
+  ```git clone https://github.com/Luthfiyanto/My-NoteApp.git```
 2. *Install node_modules* <br>
   ```npm install```
 3. *Run the project* <br>
